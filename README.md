@@ -33,5 +33,6 @@ Passe sua aplicação no Lighthouse e ela deve ter pontuação acima de 80 em Pe
 
 A proposta principal é entender um código já existente e trabalhar em cima dele (com melhorias). Mas sinta-se a vontade de criar lindos layouts e animações, responsividade e o que mais quiser.
 
+## Se você quiser focar apenas nos testes e não está a fim de desenvolver o jogo todinho você pode usar esse forkar esse código aqui [Jokenpô Base em React](https://github.com/coderanac/jokenpo-react-base)
 
 ## 3 - Não esqueçam de me marcar e boa sorte! 
